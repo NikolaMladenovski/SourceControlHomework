@@ -3,4 +3,5 @@ public class MyClass {
     String s2 = "Second Commit";
     String s3 = "Third Commit";
     String first1 = "First Branch First Commit";
+    String first2 = "First Branch Second Commit";
 }
